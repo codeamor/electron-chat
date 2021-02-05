@@ -1,0 +1,15 @@
+{
+  "name": "electronchat",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Sumin Son",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "11.2.2"
+  },
+  "dependencies": {},
+  "description": ""
+}
